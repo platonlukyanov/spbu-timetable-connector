@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+env
+token.json
+credentials.json
+bash.exe.stackdump
+.env
